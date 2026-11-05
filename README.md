@@ -12,7 +12,7 @@ ten analytical Spark SQL queries, a SparkML classifier comparison, and a Power B
 
 This was a **six-person university group project** for a Big Data & NoSQL Databases course.
 
-Habiba Farouk · Ahmed Sherif · Jamila Riad · Morin Hanna · Pierre Ashraf · Andrew Nabil
+Pierre Aziz · Ahmed Sherif · Jamila Riad · Morin Hanna · Habiba Farouk · Andrew Nabil
 
 > **My contribution (Pierre Ashraf):** data cleaning, anomaly flagging and feature
 > engineering (section 1), jointly with Ahmed Sherif. The analytical queries, SparkML task
